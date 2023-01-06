@@ -659,7 +659,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 45px;
+    font-size: 38px;
 }
 
 .hero-bloc-text-sub {
@@ -780,12 +780,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: black!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: black!important;
+    color: #FFFFFF!important;
 }
 
 .ltc-white {
