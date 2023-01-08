@@ -782,6 +782,14 @@ h4 {
     font-size: 20px;
 }
 
+.h3-size {
+    font-size: 18px;
+}
+
+.little-size {
+    font-size: 14px;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
